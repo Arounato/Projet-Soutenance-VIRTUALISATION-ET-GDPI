@@ -9,7 +9,7 @@ Ce projet consiste à :
 - créer différents rôles sur GLPI (Super-Admin, Superviseur, Technicien, Utilisateur Standard)
 - passer à l'oral avec un camarade et faire des échanges entre l'utilisateur et le technicien
 
-Outil utilisé :
+## Outil utilisé :
 - VM Workstation
 
 Vous pourrez retrouver le pdf "Mise en place d'une VM et installation d'un systeme de GDPI.pdf" qui décrira tout le processus effectué pour mettre en place le système demandé durant le projet. Il est situé dans le dossier principal de ce dépôt.
